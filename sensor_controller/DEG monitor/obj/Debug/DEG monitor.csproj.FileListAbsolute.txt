@@ -1,0 +1,35 @@
+C:\Users\Kayn\Documents\Projeto\DEG monitor\DEG monitor\bin\Debug\DEG monitor.exe.config
+C:\Users\Kayn\Documents\Projeto\DEG monitor\DEG monitor\bin\Debug\DEG monitor.exe
+C:\Users\Kayn\Documents\Projeto\DEG monitor\DEG monitor\bin\Debug\DEG monitor.pdb
+C:\Users\Kayn\Documents\Projeto\DEG monitor\DEG monitor\obj\Debug\DEG monitor.csprojAssemblyReference.cache
+C:\Users\Kayn\Documents\Projeto\DEG monitor\DEG monitor\obj\Debug\DEG_monitor.Form1.resources
+C:\Users\Kayn\Documents\Projeto\DEG monitor\DEG monitor\obj\Debug\DEG_monitor.Properties.Resources.resources
+C:\Users\Kayn\Documents\Projeto\DEG monitor\DEG monitor\obj\Debug\DEG monitor.csproj.GenerateResource.cache
+C:\Users\Kayn\Documents\Projeto\DEG monitor\DEG monitor\obj\Debug\DEG monitor.csproj.CoreCompileInputs.cache
+C:\Users\Kayn\Documents\Projeto\DEG monitor\DEG monitor\obj\Debug\DEG monitor.exe
+C:\Users\Kayn\Documents\Projeto\DEG monitor\DEG monitor\obj\Debug\DEG monitor.pdb
+C:\Users\Kayn\Documents\Projeto\DEG monitor\DEG monitor\obj\Debug\DEG_monitor.Início.resources
+C:\Users\Kayn\Documents\Infitric monitor\DEG monitor\DEG monitor\bin\Debug\DEG monitor.exe.config
+C:\Users\Kayn\Documents\Infitric monitor\DEG monitor\DEG monitor\bin\Debug\DEG monitor.exe
+C:\Users\Kayn\Documents\Infitric monitor\DEG monitor\DEG monitor\bin\Debug\DEG monitor.pdb
+C:\Users\Kayn\Documents\Infitric monitor\DEG monitor\DEG monitor\obj\Debug\DEG_monitor.Form1.resources
+C:\Users\Kayn\Documents\Infitric monitor\DEG monitor\DEG monitor\obj\Debug\DEG_monitor.Início.resources
+C:\Users\Kayn\Documents\Infitric monitor\DEG monitor\DEG monitor\obj\Debug\DEG_monitor.Properties.Resources.resources
+C:\Users\Kayn\Documents\Infitric monitor\DEG monitor\DEG monitor\obj\Debug\DEG monitor.csproj.GenerateResource.cache
+C:\Users\Kayn\Documents\Infitric monitor\DEG monitor\DEG monitor\obj\Debug\DEG monitor.csproj.CoreCompileInputs.cache
+C:\Users\Kayn\Documents\Infitric monitor\DEG monitor\DEG monitor\obj\Debug\DEG monitor.exe
+C:\Users\Kayn\Documents\Infitric monitor\DEG monitor\DEG monitor\obj\Debug\DEG monitor.pdb
+C:\Users\Kayn\Documents\Infitric monitor\DEG monitor\DEG monitor\obj\Debug\DEG monitor.csproj.AssemblyReference.cache
+C:\Users\Kayn\Documents\Infitric monitor\DEG monitor\DEG monitor\obj\Debug\DEG monitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Douglas\Desktop\VScommunity\Infitric monitor\DEG monitor\DEG monitor\bin\Debug\DEG monitor.exe.config
+C:\Users\Douglas\Desktop\VScommunity\Infitric monitor\DEG monitor\DEG monitor\bin\Debug\DEG monitor.exe
+C:\Users\Douglas\Desktop\VScommunity\Infitric monitor\DEG monitor\DEG monitor\bin\Debug\DEG monitor.pdb
+C:\Users\Douglas\Desktop\VScommunity\Infitric monitor\DEG monitor\DEG monitor\obj\Debug\DEG monitor.csproj.AssemblyReference.cache
+C:\Users\Douglas\Desktop\VScommunity\Infitric monitor\DEG monitor\DEG monitor\obj\Debug\DEG monitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Douglas\Desktop\VScommunity\Infitric monitor\DEG monitor\DEG monitor\obj\Debug\DEG_monitor.Form1.resources
+C:\Users\Douglas\Desktop\VScommunity\Infitric monitor\DEG monitor\DEG monitor\obj\Debug\DEG_monitor.Início.resources
+C:\Users\Douglas\Desktop\VScommunity\Infitric monitor\DEG monitor\DEG monitor\obj\Debug\DEG_monitor.Properties.Resources.resources
+C:\Users\Douglas\Desktop\VScommunity\Infitric monitor\DEG monitor\DEG monitor\obj\Debug\DEG monitor.csproj.GenerateResource.cache
+C:\Users\Douglas\Desktop\VScommunity\Infitric monitor\DEG monitor\DEG monitor\obj\Debug\DEG monitor.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\VScommunity\Infitric monitor\DEG monitor\DEG monitor\obj\Debug\DEG monitor.exe
+C:\Users\Douglas\Desktop\VScommunity\Infitric monitor\DEG monitor\DEG monitor\obj\Debug\DEG monitor.pdb
