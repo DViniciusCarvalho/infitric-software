@@ -122,25 +122,34 @@ namespace DEG_monitor
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            tensao = Convert.ToInt32(textBox2.Text);
-            chart1.Series[0].Points.AddXY(time, tensao);
-            textBox1.Text = Convert.ToString(tensao) + "mV" + " " + "(" + time/1000 + "s" + ")" + "\r\n";
-            time += 1000;
-            if (status == "normal")
+            int value;
+            if (Int32.TryParse(textBox2.Text, out value))
             {
-                double tensaoV = tensao / 1000;
-                label5.Text = Convert.ToString(tensaoV) + "V";
+                tensao = Convert.ToInt32(textBox2.Text);
+                chart1.Series[0].Points.AddXY(Convert.ToDouble(time), Convert.ToDouble(tensao));
+                textBox1.Text = Convert.ToString(tensao) + "mV" + " " + "(" + time / 1000 + "s" + ")" + "\r\n";
+                time += 1000;
+                if (status == "normal")
+                {
+                    double tensaoV = tensao / 1000;
+                    label5.Text = Convert.ToString(tensaoV) + "V";
+                }
+                else if (status == "mili")
+                {
+                    String mili = Convert.ToString(tensao);
+                    label5.Text = mili + "mV";
+                }
+                else if (status == "micro")
+                {
+                    String micro = Convert.ToString(tensao * 1000);
+                    label5.Text = micro + "μV";
+                }
             }
-            else if (status == "mili")
+            else
             {
-                String mili = Convert.ToString(tensao);
-                label5.Text = mili + "mV";
+                Console.Write(textBox2.Text);
             }
-            else if (status == "micro")
-            {
-                String micro = Convert.ToString(tensao * 1000);
-                label5.Text = micro + "μV";
-            }
+            
         }
     }
 }

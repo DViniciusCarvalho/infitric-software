@@ -12,10 +12,10 @@ void setup()
 
 void loop()
 {  
-   valor_leitura = analogRead(A2); 
+   float valor_leitura = analogRead(A2); 
    vin = (valor_lido * 5.0) / 1024.0; 
    vout = vin / (R2/(R1+R2));
    int valor_final = vout * 1000;    
-   Serial.println(valor_final);     
+   Serial.println(valor_final);  
    delay(200); 
 }
